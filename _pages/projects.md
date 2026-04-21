@@ -5,7 +5,6 @@ permalink: /projects/
 description: Our ongoing research projects.
 nav: true
 nav_order: 3
-display_categories: []
 horizontal: false
 ---
 
