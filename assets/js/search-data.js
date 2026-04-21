@@ -38,8 +38,8 @@ ninja.data = [{
             window.location.href = "/news/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
+          title: "Teaching",
+          description: "Teaching activities and resources.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
