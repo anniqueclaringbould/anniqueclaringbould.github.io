@@ -7,4 +7,4 @@ rss_icon: false # comment this line to hide the RSS icon
 scholar_userid: Bb-a4TwAAAAJ # your Google Scholar ID
 linkedin_username: annique-claringbould-2189b262
 github_username: anniqueclaringbould
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
+# custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
