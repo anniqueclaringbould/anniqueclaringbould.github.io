@@ -1,17 +1,9 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: >
   <a href="https://www.erasmusmc.nl/en/research/departments-and-centers/internal-medicine">Department of Internal Medicine</a> · Erasmus MC, Rotterdam
-
-profile:
-  align: right
-  image: team/annique.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Erasmus MC</p>
-    <p>Rotterdam, the Netherlands</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
