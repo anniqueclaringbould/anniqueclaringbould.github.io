@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Assistant Professor · <a href="https://www.erasmusmc.nl/en/research/departments-and-centers/internal-medicine">Department of Internal Medicine</a> · Erasmus MC, Rotterdam
+  <a href="https://www.erasmusmc.nl/en/research/departments-and-centers/internal-medicine">Department of Internal Medicine</a> · Erasmus MC, Rotterdam
 
 profile:
   align: right
