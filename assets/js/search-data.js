@@ -49,8 +49,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-annique-team-started-her-work-at-erasmus-mc",
-          title: '[Annique](/team/) started her work at Erasmus MC',
+            },},{id: "news-annique-started-her-work-at-erasmus-mc",
+          title: 'Annique started her work at Erasmus MC',
           description: "",
           section: "News",},{id: "news-may-krause-joined-erasmus-mc-as-the-first-phd-student-in-the-group",
           title: 'May Krause joined Erasmus MC as the first PhD student in the group!...',
