@@ -18,3 +18,8 @@ We develop integrative polygenic scoring approaches that combine multiple layers
 - Develop improved polygenic scores for predicting cardiac outcomes in FH patients
 - Understand the regulatory mechanisms linking cholesterol genetics to cardiovascular risk
 - Identify individuals at highest risk who may benefit most from early intervention
+
+## Funding
+
+This project has been funded by a [Diabetes Fonds Junior Fellowship](https://www.diabetesfonds.nl/onderzoeken/dna-verschillen-en-de-kans-op-diabetes-type-2)
+<img src="/assets/img/logos/df.jpg" alt="ZonMW logo" style="height:50px;">
