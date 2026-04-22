@@ -34,6 +34,9 @@ profiles:
 
 {% include profiles.html %}
 
+<div class="mt-5">
+  {{ content }}
+</div>
 ## Alumni
 
 | Name | Role | Year |
