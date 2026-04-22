@@ -63,8 +63,13 @@ ninja.data = [{
           section: "News",},{id: "news-caiwei-joins-erasmus-mc",
           title: 'Caiwei joins Erasmus MC.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-new-paper-on-biorxiv",
+          title: 'New paper on bioRxiv',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-03-12/";
+            },},{id: "news-science-days-2026",
+          title: 'Science Days 2026',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-23/";
