@@ -49,18 +49,26 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-a-long-announcement-with-details",
+          title: 'A long announcement with details',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "news-annique-joined-erasmus-mc",
+          title: 'Annique joined Erasmus MC.',
+          description: "",
+          section: "News",},{id: "news-may-joins-erasmus-mc",
+          title: 'May joins Erasmus MC.',
+          description: "",
+          section: "News",},{id: "news-caiwei-joins-erasmus-mc",
+          title: 'Caiwei joins Erasmus MC.',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "projects-type-2-diabetes",
+              window.location.href = "/news/2026-03-23/";
+            },},{id: "projects-type-2-diabetes",
           title: 'Type 2 Diabetes',
           description: "Molecular mechanisms of genetic risk for type 2 diabetes",
           section: "Projects",handler: () => {
