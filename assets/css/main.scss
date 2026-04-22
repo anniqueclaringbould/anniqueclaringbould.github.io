@@ -37,3 +37,29 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+/* Custom styles */
+
+/* Fix monospace font under profile pictures */
+.profile .more-info p {
+  font-family: var(--bs-font-sans-serif);
+  font-size: 0.95rem;
+  color: #555;
+}
+
+/* Erasmus MC blue headings */
+h1, h2, h3 {
+  color: #003d79;
+}
+
+h4 {
+  color: #0072bc;
+}
+
+a {
+  color: #0072bc;
+}
+
+a:hover {
+  color: #003d79;
+}
