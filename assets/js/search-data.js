@@ -54,8 +54,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-annique-joined-erasmus-mc",
-          title: 'Annique joined Erasmus MC.',
+            },},{id: "news-annique-team-started-her-work-at-erasmus-mc",
+          title: '[Annique](/team/) started her work at Erasmus MC',
           description: "",
           section: "News",},{id: "news-may-krause-joined-erasmus-mc-as-the-first-phd-student-in-the-group",
           title: 'May Krause joined Erasmus MC as the first PhD student in the group!...',
