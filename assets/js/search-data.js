@@ -96,13 +96,6 @@ ninja.data = [{
           window.open("mailto:%61.%63%6C%61%72%69%6E%67%62%6F%75%6C%64@%65%72%61%73%6D%75%73%6D%63.%6E%6C", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
@@ -122,6 +115,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/anniqueclaringbould", "_blank");
+        },
+      },{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://bsky.app/profile/anniquec.bsky.social", "_blank");
         },
       },{
       id: 'light-theme',
