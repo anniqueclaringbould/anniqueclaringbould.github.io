@@ -5,4 +5,4 @@ Annique Claringbould is interested in researching the changes in gene regulation
 <a href="https://www.erasmusmc.nl/en/research/researchers/claringbould-annique" target="_blank">Erasmus MC</a> ·
 <a href="https://scholar.google.com/citations?user=Bb-a4TwAAAAJ" target="_blank">Google Scholar</a> ·
 <a href="https://www.linkedin.com/in/annique-claringbould-2189b262/" target="_blank">LinkedIn</a> ·
-<a href="https://github.com/anniqueclaringbould" target="_blank">GitHub</a> ·
+<a href="https://github.com/anniqueclaringbould" target="_blank">GitHub</a>
