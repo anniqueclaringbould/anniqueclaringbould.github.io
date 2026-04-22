@@ -1,5 +1,5 @@
 ---
-layout: profiles
+layout: page
 permalink: /team/
 title: Team
 description: Members of the group
@@ -31,6 +31,8 @@ profiles:
     more_info: >
       <p>PhD Student</p>
 ---
+
+{% include profiles.html %}
 
 ## Alumni
 
