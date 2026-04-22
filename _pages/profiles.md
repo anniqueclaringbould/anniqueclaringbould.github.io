@@ -12,7 +12,7 @@ profiles:
   - align: right
     image: team/annique.jpg
     content: about_annique.md
-    image_circular: false
+    image_circular: true
     more_info: >
       <p>Assistant Professor</p>
       <p>Erasmus MC, Rotterdam</p>
@@ -20,14 +20,14 @@ profiles:
   - align: left
     image: team/may.jpg
     content: about_may.md
-    image_circular: false
+    image_circular: true
     more_info: >
       <p>PhD Student</p>
 
   - align: right
     image: team/caiwei.jpg
     content: about_caiwei.md
-    image_circular: false
+    image_circular: true
     more_info: >
       <p>PhD Student</p>
 ---
