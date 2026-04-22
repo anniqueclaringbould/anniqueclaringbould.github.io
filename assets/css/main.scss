@@ -65,10 +65,12 @@ a:hover {
 }
 
 /* Wider publications list */
-.publications {
-  max-width: 100%;
+.publications .col-sm-2 {
+  display: none;
 }
 
-.publications ol.bibliography li {
-  max-width: 100%;
+.publications .col-sm-8 {
+  width: 100% !important;
+  max-width: 100% !important;
+  flex: 0 0 100% !important;
 }
