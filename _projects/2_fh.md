@@ -22,4 +22,4 @@ We develop integrative polygenic scoring approaches that combine multiple layers
 ## Funding
 
 This project has been funded by a [Diabetes Fonds Junior Fellowship](https://www.diabetesfonds.nl/onderzoeken/dna-verschillen-en-de-kans-op-diabetes-type-2)
-<img src="/assets/img/logos/df.jpg" alt="ZonMW logo" style="height:50px;">
+<img src="/assets/img/logos/df.jpg" alt="DiabetesFonds logo" style="height:50px;">
