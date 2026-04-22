@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Annique](/team/) joins Erasmus MC.
+[Annique](/team/) joined Erasmus MC.
