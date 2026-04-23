@@ -87,7 +87,7 @@ ninja.data = [{
           title: 'Science Days 2026',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/2026-03-23/";
+              window.location.href = "/news/2026-03-23_science_days/";
             },},{id: "projects-type-2-diabetes",
           title: 'Type 2 Diabetes',
           description: "Molecular mechanisms of genetic risk for type 2 diabetes",
