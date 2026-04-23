@@ -30,6 +30,13 @@ profiles:
     image_circular: true
     more_info: >
       <p>PhD Student</p>
+
+  - align: right
+    image: team/eric.jpg
+    content: about_eric.md
+    image_circular: true
+    more_info: >
+      <p>Professor vascular medicine</p>
 ---
 
 ## Alumni
