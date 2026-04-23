@@ -68,7 +68,12 @@ ninja.data = [{
             },},{id: "news-caiwei-tan-joined-erasmus-mc-as-the-second-phd-student-in-the-group",
           title: 'Caiwei Tan joined Erasmus MC as the second PhD student in the group!...',
           description: "",
-          section: "News",},{id: "news-new-paper-on-biorxiv",
+          section: "News",},{id: "news-sumseq-protocol-published-in-nature-protocols",
+          title: 'SUMseq protocol published in Nature Protocols',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-02-26_sumseq_prot/";
+            },},{id: "news-new-paper-on-biorxiv",
           title: 'New paper on bioRxiv',
           description: "",
           section: "News",handler: () => {
