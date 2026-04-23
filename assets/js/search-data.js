@@ -55,7 +55,12 @@ ninja.data = [{
           section: "News",},{id: "news-may-krause-joined-erasmus-mc-as-the-first-phd-student-in-the-group",
           title: 'May Krause joined Erasmus MC as the first PhD student in the group!...',
           description: "",
-          section: "News",},{id: "news-annique-is-interviewed-in-dialoog",
+          section: "News",},{id: "news-eric-and-annique-are-interviewed-in-de-cardioloog",
+          title: 'Eric and Annique are interviewed in De Cardioloog',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-06-23_cardioloog/";
+            },},{id: "news-annique-is-interviewed-in-dialoog",
           title: 'Annique is interviewed in Dialoog',
           description: "",
           section: "News",handler: () => {
