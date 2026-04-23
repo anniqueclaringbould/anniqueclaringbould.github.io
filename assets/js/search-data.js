@@ -55,7 +55,12 @@ ninja.data = [{
           section: "News",},{id: "news-may-krause-joined-erasmus-mc-as-the-first-phd-student-in-the-group",
           title: 'May Krause joined Erasmus MC as the first PhD student in the group!...',
           description: "",
-          section: "News",},{id: "news-caiwei-tan-joined-erasmus-mc-as-the-second-phd-student-in-the-group",
+          section: "News",},{id: "news-annique-is-interviewed-in-dialoog",
+          title: 'Annique is interviewed in Dialoog',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-09-01_dialoog/";
+            },},{id: "news-caiwei-tan-joined-erasmus-mc-as-the-second-phd-student-in-the-group",
           title: 'Caiwei Tan joined Erasmus MC as the second PhD student in the group!...',
           description: "",
           section: "News",},{id: "news-new-paper-on-biorxiv",
