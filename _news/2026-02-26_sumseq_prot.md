@@ -16,7 +16,7 @@ I want to try this cost-effective single cell RNA & ATAC-seq method myself? 🧬
 
 **Find the complete protocol including tips, troubleshooting and timing** now in [Nature Protocols](https://www.nature.com/articles/s41596-025-01310-0?utm_source=bluesky&utm_medium=nprot)
 <div style="display:grid; grid-template-columns: 1fr 1fr; gap:10px;">
-  <img src="/assets/img/news/sumseq_protocol.jpb" style="width:100%;">
+  <img src="/assets/img/news/sumseq_protocol.jpg" style="width:100%;">
 </div>
 
 ---
