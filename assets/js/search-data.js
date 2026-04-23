@@ -72,7 +72,7 @@ ninja.data = [{
           title: 'New paper on bioRxiv',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/2026-03-12/";
+              window.location.href = "/news/2026-03-12_CD4_biorxiv/";
             },},{id: "news-science-days-2026",
           title: 'Science Days 2026',
           description: "",
