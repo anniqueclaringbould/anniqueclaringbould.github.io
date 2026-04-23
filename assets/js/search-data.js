@@ -78,8 +78,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-02-26_sumseq_prot/";
-            },},{id: "news-new-paper-on-biorxiv",
-          title: 'New paper on bioRxiv',
+            },},{id: "news-new-paper-mapping-the-effect-of-immune-snps-in-cd4-t-cells-on-biorxiv",
+          title: 'New paper mapping the effect of immune SNPs in CD4+ T cells on...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-12_CD4_biorxiv/";
