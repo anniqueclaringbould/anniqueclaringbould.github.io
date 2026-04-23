@@ -35,7 +35,7 @@ profiles:
     content: about_eric.md
     image_circular: true
     more_info: >
-      <p>Professor Vascular mMdicine</p>
+      <p>Professor Vascular Medicine</p>
 ---
 
 ## Alumni
