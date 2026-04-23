@@ -15,9 +15,8 @@ profiles:
     image_circular: true
     more_info: >
       <p>Assistant Professor</p>
-      <p>Erasmus MC, Rotterdam</p>
 
-  - align: left
+  - align: right
     image: team/may.jpg
     content: about_may.md
     image_circular: true
@@ -36,7 +35,7 @@ profiles:
     content: about_eric.md
     image_circular: true
     more_info: >
-      <p>Professor vascular medicine</p>
+      <p>Professor Vascular mMdicine</p>
 ---
 
 ## Alumni
