@@ -88,6 +88,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-23_science_days/";
+            },},{id: "news-may-at-genome-dynamics-course",
+          title: 'May at Genome Dynamics course',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-04-20_May_GenDyn/";
             },},{id: "projects-type-2-diabetes",
           title: 'Type 2 Diabetes',
           description: "Molecular mechanisms of genetic risk for type 2 diabetes",
