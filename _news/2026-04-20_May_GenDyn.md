@@ -18,10 +18,10 @@ On my end, I gave an elevator pitch, presented a poster on my PhD work, and cont
 
 A big thank you to the organisers, sponsors, and my supervisors for making this possible.
 
-<div style="display:grid; grid-template-columns: 1fr 1fr; gap:10px;">
-  <img src="/assets/img/news/gendyn1.jpeg" style="width:30%;">
-  <img src="/assets/img/news/gendyn2.jpeg" style="width:30%;">
-  <img src="/assets/img/news/gendyn3.jpeg" style="width:23%;">
+<div style="display:grid; grid-template-columns: 1fr 1fr 1fr; gap:10px;">
+  <img src="/assets/img/news/gendyn1.jpeg" style="width:100%;">
+  <img src="/assets/img/news/gendyn2.jpeg" style="width:100%;">
+  <img src="/assets/img/news/gendyn3.jpeg" style="width:80%;">
 </div>
 
 ---
