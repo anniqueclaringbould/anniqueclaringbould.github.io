@@ -93,6 +93,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-04-20_May_GenDyn/";
+            },},{id: "news-phileine-and-sam-start-their-summer-internships",
+          title: 'Phileine and Sam start their summer internships',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-06-01-students-join/";
             },},{id: "projects-type-2-diabetes",
           title: 'Type 2 Diabetes',
           description: "Molecular mechanisms of genetic risk for type 2 diabetes",
