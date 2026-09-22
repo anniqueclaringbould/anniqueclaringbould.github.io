@@ -98,6 +98,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-06-01-students-join/";
+            },},{id: "news-caiwei-presents-poster-at-dutch-genetics-meeting-nvhg-2026",
+          title: 'Caiwei presents poster at Dutch genetics meeting NVHG 2026',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-09-18-caiwei_nvhg/";
             },},{id: "projects-type-2-diabetes",
           title: 'Type 2 Diabetes',
           description: "Molecular mechanisms of genetic risk for type 2 diabetes",
