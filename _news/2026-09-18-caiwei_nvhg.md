@@ -11,4 +11,6 @@ inline: false
 
 Caiwei presented her poster *"Beyond the Ususal Suspects: A Polygenic View of Monogenic Disease"* at the annual [Dutch genetics meeting (NVHG)](https://www.nvhg.nl/general-information-nvhg-2026).
 
-{% raw %}{% include figure.liquid path="assets/img/news/nvhg_poster_caiwei.jpg" class="img-fluid rounded" %}{% endraw %}
+<div style="display:grid; grid-template-columns: 1fr 1fr; gap:10px;">
+  <img src="/assets/img/news/nvhg_poster_caiwei.jpg" style="width:100%;">
+</div>
