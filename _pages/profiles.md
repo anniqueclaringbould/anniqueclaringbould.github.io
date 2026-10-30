@@ -43,3 +43,5 @@ profiles:
 | Name        | Role                    | Year |
 | ----------- | ----------------------- | ---- |
 | Calin Alecu | Bachelor thesis student | 2025 |
+| Phileine de Widt | BSc internship student | 2026 |
+| Sam Alginin | BSc internship student | 2026 |
