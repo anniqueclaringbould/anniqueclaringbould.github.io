@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-***Author**: May Krause*
+_**Author**: May Krause_
 
 ---
 

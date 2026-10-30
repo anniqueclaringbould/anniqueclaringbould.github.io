@@ -21,10 +21,8 @@ latest_posts:
 
 We are a research group in the Department of Internal Medicine (Pharmacology, Vascular and Metabolic Diseases) at Erasmus MC, Rotterdam, led by [Annique Claringbould](team).
 
-
 Our research focuses on understanding the changes in **gene regulation** and **gene expression** that underlie complex diseases. We combine population genomics, single-cell multiomics, and gene regulatory network approaches to uncover how genetic variants influence disease risk — with a particular focus on **type 2 diabetes** and **familial hypercholesterolaemia**.
-
 
 ## Join us
 
-We are currently setting up our research group and are excited to invite applications for **master internships**. If you are a highly motivated and hardworking student, we encourage you to  [get in touch](mailto:a.claringbould@erasmusmc.nl). Collaboration is at the heart of our work, so we are looking for students with strong communication skills. We especially welcome candidates with a background in bioinformatics, computational biology, genomics, or molecular biology, and an interest in gene regulation, GWAS, lipid biology, or cardiovascular diseases.
+We are currently setting up our research group and are excited to invite applications for **master internships**. If you are a highly motivated and hardworking student, we encourage you to [get in touch](mailto:a.claringbould@erasmusmc.nl). Collaboration is at the heart of our work, so we are looking for students with strong communication skills. We especially welcome candidates with a background in bioinformatics, computational biology, genomics, or molecular biology, and an interest in gene regulation, GWAS, lipid biology, or cardiovascular diseases.

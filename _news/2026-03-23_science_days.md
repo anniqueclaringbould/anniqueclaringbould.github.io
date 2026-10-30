@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-***Author**: Annique Claringbould*
+_**Author**: Annique Claringbould_
 
 ---
 

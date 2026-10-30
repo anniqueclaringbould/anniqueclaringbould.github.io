@@ -6,11 +6,11 @@ inline: false
 related_posts: false
 ---
 
-***Author**: Annique Claringbould*
+_**Author**: Annique Claringbould_
 
 ---
 
-Earlier this year, Eric and I were interviewed by [De Cardioloog](https://decardioloog.nl/), the magazine for Dutch cardiologists. 
+Earlier this year, Eric and I were interviewed by [De Cardioloog](https://decardioloog.nl/), the magazine for Dutch cardiologists.
 In this [interview](/assets/pdf/cardioloog_interview.pdf) (in Dutch) we discuss how improving molecular diagnostics and capturing genetic heterogeneity in familial hypercholesterolemia could enable more precise risk prediction, earlier detection, and more personalized treatment strategies.
 
 <div style="display:grid; grid-template-columns: 1fr 1fr; gap:10px;">

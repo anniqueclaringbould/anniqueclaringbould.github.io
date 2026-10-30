@@ -40,6 +40,6 @@ profiles:
 
 ## Alumni
 
-| Name | Role | Year |
-|------|------|------|
+| Name        | Role                    | Year |
+| ----------- | ----------------------- | ---- |
 | Calin Alecu | Bachelor thesis student | 2025 |
