@@ -103,6 +103,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-09-18-caiwei_nvhg/";
+            },},{id: "news-zonmw-off-road-grant-awarded-for-ai-driven-regulatory-profiling-in-β-cells",
+          title: 'ZonMw Off Road grant awarded for AI-driven regulatory profiling in β-cells',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-10-01-zonmw-offroad-grant/";
             },},{id: "projects-type-2-diabetes",
           title: 'Type 2 Diabetes',
           description: "Molecular mechanisms of genetic risk for type 2 diabetes",
